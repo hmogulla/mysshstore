@@ -5,6 +5,8 @@ This is second line added from local
 This is second line added for github
 This is third line added for local
 This is third line added for github
+<<<<<<< HEAD
 This is 4th line L
 
+this is 4th line GH
 
